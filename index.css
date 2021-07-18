@@ -1,0 +1,31 @@
+*{ background-color: azure;
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    font-size: 16px;
+    line-height: 1.8;
+}
+#header{
+    background-position: center;
+    text-align: center;
+}
+#header h1{
+    line-height: 1.8;
+}
+#header p{
+    line-height: 1.8;
+}
+#header.button{
+    color: blue;
+    border: brown;
+    border-radius: 10px;
+
+}
+#header.button:hover{
+    background-color: chocolate;
+
+}
+#end{
+    display: flex;
+}
